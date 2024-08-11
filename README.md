@@ -29,6 +29,6 @@ Enter the second value = 5
 <br>
 6 - Percentage
 <br>
-Choose the Option = 
+Choose the Option = sum
 <br>
 sum = 15
