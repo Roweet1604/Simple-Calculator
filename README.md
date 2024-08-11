@@ -14,12 +14,21 @@ Percentage
 #Example:-
 
 Enter the first value = 10
+<br>
 Enter the second value = 5
+<br>
 1 - Sum
+<br>
 2 - Subtract
+<br>
 3 - Multiply
+<br>
 4 - Divide
+<br>
 5 - Average
+<br>
 6 - Percentage
-Choose the Option = 1
+<br>
+Choose the Option = 
+<br>
 sum = 15
