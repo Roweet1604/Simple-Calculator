@@ -6,7 +6,7 @@ class Calculator {
         System.out.print("Enter the first value = ");
         int a = sc.nextInt();
         System.out.print("Enter the second value = ");
-        int b = sc.nextInt(); hell
+        int b = sc.nextInt();
         int sum = a + b;
         int subtract = a - b;
         int multiply = a * b;
